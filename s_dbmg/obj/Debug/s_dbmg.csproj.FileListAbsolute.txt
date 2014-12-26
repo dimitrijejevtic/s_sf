@@ -1,0 +1,13 @@
+c:\users\dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\bin\Debug\s_dbmg.exe.config
+c:\users\dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\bin\Debug\s_dbmg.exe
+c:\users\dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\bin\Debug\s_dbmg.pdb
+c:\users\dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\obj\Debug\s_dbmg.csprojResolveAssemblyReference.cache
+c:\users\dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\obj\Debug\s_dbmg.Properties.Resources.resources
+c:\users\dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\obj\Debug\s_dbmg.csproj.GenerateResource.Cache
+c:\users\dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\obj\Debug\s_dbmg.exe
+c:\users\dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\obj\Debug\s_dbmg.pdb
+C:\Users\Dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\bin\Debug\db.mdf
+C:\Users\Dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\bin\Debug\db_log.ldf
+C:\Users\Dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\obj\Debug\s_dbmg.Form1.resources
+C:\Users\Dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\obj\Debug\s_dbmg.Form2.resources
+C:\Users\Dimitrije\documents\visual studio 2013\Projects\s_dbmg\s_dbmg\obj\Debug\s_dbmg.Form3.resources
