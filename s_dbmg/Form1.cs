@@ -29,6 +29,7 @@ namespace s_dbmg
         {
             cmd.Connection = cn;
             a = new ListaAutora();
+            k = new ListaKnjiga();
             cn.Open();
             cmd.CommandText = "select * from Autor";
             dr = cmd.ExecuteReader();
@@ -105,6 +106,26 @@ namespace s_dbmg
         {
             Form3 frm = new Form3(this, cn, cmd);
             frm.Show();
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            cn.Open();
+            cmd.CommandText = "select ime from Knjige where autor='"+listBox1.SelectedItem.ToString()+"'";
+            dr = cmd.ExecuteReader();
+
+            if (dr.HasRows)
+            {
+                while (dr.Read())
+                {
+                    k.dodajKnjigu(dr[0].ToString(), new Autor(listBox1.SelectedItem.ToString())); //this
+                }
+            }
+            for (int i = 0; i < k.N; i++)
+            {
+                listBox2.Items.Add(k[i]);
+            }
+            cn.Close();
         }
     }
 }
